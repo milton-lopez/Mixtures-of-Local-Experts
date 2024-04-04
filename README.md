@@ -4,4 +4,4 @@ PyTorch version of the original 'Adaptive Mixtures of Local Experts' applied to 
 
 https://www.cs.toronto.edu/~hinton/absps/jjnh91.pdf
 
-## WIP!!
+## WIP!! (code sucks)
